@@ -72,18 +72,18 @@ projeto_micangas/
 
 ### Páginas:
 ## Listar produtos:
-```html
+
 <img src="static/img/Listar.png" width="400px">
-```
+
 ## Detalhe dos produtos:
-```html
+
 <img src="static/img/Detail.png" width="400px">
-```
+
 ## Formulário de Criação e Edição dos produtos:
-```html
+
 <img src="static/img/Forms.png" width="400px">
-```
+
 ## Confirmar remoção do produto:
-```html
+
 <img src="static/img/Confirmdelete.png" width="400px">
-```
+
